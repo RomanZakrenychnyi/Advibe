@@ -1,0 +1,9 @@
+[
+  { "id": "backend-developer", "unit": "IT" },
+  { "id": "ui-ux-designer", "unit": "IT" },
+  { "id": "qa-manual", "unit": "IT" },
+  { "id": "media-buyer-facebook", "unit": "Affiliate" },
+  { "id": "media-buyer-tiktok", "unit": "Affiliate" },
+  { "id": "media-buyer-twitter", "unit": "Affiliate" },
+  { "id": "media-buyer-igaming", "unit": "Affiliate" }
+]

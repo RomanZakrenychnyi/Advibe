@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "title": "Advibe — Stavíme produkty. Řídíme performance marketing.",
+    "titleCareers": "Kariéra — Advibe",
+    "titleAbout": "O nás — Advibe",
+    "description": "Advibe staví a provozuje vlastní sweepstakes platformu, licencované kasino v JAR a interní affiliate tým. Sídlo ve Varšavě, plná odpovědnost end-to-end.",
+    "descriptionCareers": "Otevřené pozice v Advibe ve sweepstakes, kasinu a affiliate. Inženýři, designéři, QA a media buyeři — malé týmy a pracovní proces podporovaný AI.",
+    "descriptionAbout": "Poznejte Advibe — varšavský holding, který staví a provozuje vlastní sweepstakes platformu, licencované kasino v JAR a affiliate tým."
+  },
+  "languages": {
+    "en": "English",
+    "pl": "Polski",
+    "cs": "Čeština",
+    "ru": "Русский"
+  },
+  "nav": {
+    "home": "Domů",
+    "products": "Produkty",
+    "about": "O nás",
+    "careers": "Kariéra",
+    "hiring": "Hledáme lidi →",
+    "previousRoles": "Předchozí pozice",
+    "nextRoles": "Další pozice",
+    "selectLanguage": "Vyberte jazyk",
+    "mainNavigation": "Hlavní navigace",
+    "openMenu": "Otevřít menu",
+    "closeMenu": "Zavřít menu"
+  },
+  "hero": {
+    "eyebrow": "Varšava · Stavíme od roku 2020",
+    "title": "Stavíme <highlight>produkty</highlight> a<br/>řídíme <highlight>akvizici</highlight>.",
+    "subtitle": "Advibe end-to-end provozuje tři oblasti: vlastní sweepstakes platformu, licencované kasino v JAR a affiliate tým, který přivádí návštěvnost k oběma produktům. Bez klientů mezi tím — vše, co stavíme, je naše.",
+    "ctaPrimary": "Podívejte se na naše produkty",
+    "ctaSecondary": "Otevřené pozice",
+    "arrow": "→"
+  },
+  "products": {
+    "tag": "Co provozujeme",
+    "heading": "Co stavíme a provozujeme sami.",
+    "sweepstakes": {
+      "index": "Sweepstakes",
+      "title": "Sweepstakes platforma",
+      "description": "Vlastní sweepstakes platforma od A do Z — registrace, ceny a hráčská cesta na infrastruktuře, kterou máme pod kontrolou.",
+      "tags": [
+        "Platforma",
+        "CRM"
+      ],
+      "link": "Prozkoumat platformu →"
+    },
+    "casino": {
+      "index": "SA Casino",
+      "title": "Licencované kasino, JAR",
+      "description": "Licencované kasino se skutečnými penězi v JAR pod vlastní licencí — ne white-label, ne partnerská značka.",
+      "license": "Licencovaný operátor · JAR",
+      "tags": [
+        "iGaming licence",
+        "Skutečné peníze"
+      ],
+      "link": "O licenci →"
+    },
+    "affiliate": {
+      "index": "Affiliate",
+      "title": "Affiliate marketing",
+      "description": "Interní tým pro návštěvnost pro naši platformu a kasino — bez externích klientů, s plnou kontrolou funnelu.",
+      "tags": [
+        "iGaming",
+        "Paid acquisition"
+      ],
+      "link": "Podívat se na oblast →"
+    }
+  },
+  "whyUs": {
+    "tag": "Jak pracujeme",
+    "heading": "Pro lidi, kteří jedou rychle a berou zodpovědnost za výsledek.",
+    "items": {
+      "ai": {
+        "title": "AI v každodenní práci",
+        "description": "Inženýři kódují s Copilot, Cursor a Claude Code. Designéři pracují s AI ve Figmě. Není to firemní prohlášení — tak vypadá každý den."
+      },
+      "decisions": {
+        "title": "Krátké rozhodovací smyčky",
+        "description": "Mezi nápadem a nasazením nejsou zbytečné vrstvy. Malé týmy end-to-end nesou odpovědnost za svou část platformy nebo affiliate oblasti."
+      },
+      "ownership": {
+        "title": "Neseme odpovědnost za to, co vydáváme",
+        "description": "Každý produkt i každá nabídka patří nám. Bez schvalování klientů a bez cizího produktového plánu."
+      }
+    }
+  },
+  "testimonials": {
+    "heading": "Ohlasy klientů",
+    "description": "Co říkají společnosti, se kterými spolupracujeme.",
+    "items": {
+      "hrDirector": {
+        "quote": "Tým Advibe se rychle zorientoval nejen ve formálních požadavcích na danou pozici, ale také v tom, jaký člověk se do našeho týmu skutečně hodí. Místo záplavy životopisů jsme obdrželi několik pečlivě vybraných uchazečů, z nichž každý splňoval naše očekávání.",
+        "role": "HR ředitel",
+        "company": "Evropská technologická společnost"
+      },
+      "founder": {
+        "quote": "Potřebovali jsme současně obsadit několik pozic, aniž by tím utrpěla kvalita výběru. Advibe vytvořila přehledný proces, pravidelně nás informovala o průběhu výběru a pomohla nám rychleji se rozhodovat. Tým Advibe fungoval jako prodloužená ruka našeho interního personálního oddělení.",
+        "role": "Zakladatel",
+        "company": "Rychle rostoucí digitální podnik"
+      },
+      "headOfPeople": {
+        "quote": "Pro tuto specializovanou pozici bylo obzvláště důležité porozumění trhu a zachování důvěrnosti. Personalista se dobře orientoval ve specifikách iGamingu a představil nám pouze ty kandidáty, kteří skutečně odpovídali úrovni a úkolům dané role.",
+        "role": "Vedoucí personálního oddělení",
+        "company": "Společnost z odvětví iGaming"
+      },
+      "coo": {
+        "quote": "Komunikace byla transparentní v každé fázi – od upřesnění profilu až po nástup zaměstnance. Po přijetí zůstalo tým Advibe v kontaktu a pokračovalo v doprovázení celého procesu. Pro nás to byl významný rozdíl oproti standardnímu přístupu personálních agentur.",
+        "role": "Provozní ředitel",
+        "company": "Mezinárodní servisní společnost"
+      }
+    }
+  },
+  "careers": {
+    "heading": "Otevřené pozice",
+    "description": "Rosteme ve všech třech oblastech — sweepstakes, kasino a affiliate — s praktickou prací podporovanou AI.",
+    "pageHeading": "Přidejte se k Advibe",
+    "pageDescription": "Otevřené pozice ve sweepstakes, kasinu a affiliate. Malé týmy, pracovní proces s AI a plná odpovědnost za to, co vydáváte.",
+    "howWeHire": {
+      "tag": "Jak najímáme",
+      "heading": "Jasný proces a rychlá zpětná vazba.",
+      "steps": {
+        "apply": {
+          "title": "Přihláška přes Telegram",
+          "description": "Napište nám, o jakou pozici máte zájem. Bez dlouhých formulářů — stačí krátké intro a vaše zkušenosti."
+        },
+        "intro": {
+          "title": "Úvodní hovor",
+          "description": "Třicetiminutový rozhovor s někým z týmu. Probereme roli, způsob práce a vaše očekávání."
+        },
+        "task": {
+          "title": "Krok podle role",
+          "description": "Inženýři, designéři a media buyerové dostanou praktický úkol blízký reálné práci — ne hádanky na tabuli."
+        },
+        "offer": {
+          "title": "Nabídka a onboarding",
+          "description": "Když si sedneme oběma stranám, jedeme rychle. Připojíte se k malému týmu s jasným scopem od prvního dne."
+        }
+      }
+    },
+    "lifeAtAdvibe": {
+      "tag": "Život v Advibe",
+      "heading": "Jak to u nás vypadá.",
+      "items": {
+        "teams": {
+          "title": "Malé týmy, jasný scope",
+          "description": "Neztratíte se v hierarchii. Týmy jsou kompaktní, role jsou definované a každý ví, co vlastní."
+        },
+        "ai": {
+          "title": "AI v každodenní práci",
+          "description": "Copilot, Cursor, Claude Code a AI ve Figmě jsou součástí práce — ne slide z onboardingu."
+        },
+        "ownership": {
+          "title": "Skutečné vlastnictví",
+          "description": "Stavíme vlastní produkty, ne klientské projekty. Vidíte dopad své práce na live platformy a kampaně."
+        }
+      }
+    }
+  },
+  "about": {
+    "tag": "O Advibe",
+    "heading": "Stavíme a provozujeme vlastní produkty.",
+    "intro": "Advibe je varšavský holding, který vlastní produkty, které sám vyvíjí a provozuje — sweepstakes platformu, licencované kasino v JAR a affiliate tým, který přivádí návštěvnost. Bez agenturních klientů, bez white-labelů.",
+    "story": {
+      "tag": "Kdo jsme",
+      "heading": "Produktová firma, ne servisní agentura.",
+      "paragraph1": "Od roku 2020 stavíme a provozujeme vlastní iGaming a sweepstakes produkty end-to-end. Vývoj, design, akvizice a provoz jsou pod jednou střechou — v malých týmech, které nesou odpovědnost za svou část stacku.",
+      "paragraph2": "Nepitchujeme klientům ani neplníme cizí produktové plány. Každý produkt, nabídka i kampaň je naše. To zkracuje rozhodovací smyčky a drží jasnou odpovědnost."
+    },
+    "model": {
+      "tag": "Co provozujeme",
+      "heading": "Tři oblasti, jeden holding.",
+      "items": {
+        "sweepstakes": {
+          "index": "Sweepstakes",
+          "title": "Sweepstakes platforma",
+          "description": "Vlastní platforma pro registrace, ceny a hráčskou cestu — postavená a provozovaná na infrastruktuře pod naší kontrolou."
+        },
+        "casino": {
+          "index": "SA Casino",
+          "title": "Licencované kasino, JAR",
+          "description": "Kasino se skutečnými penězi pod vlastní licencí — ne partnerská značka, ne reseller deal."
+        },
+        "affiliate": {
+          "index": "Affiliate",
+          "title": "Affiliate marketing",
+          "description": "Interní akvizice pro vlastní produkty — plná kontrola funnelu od kliknutí po LTV."
+        }
+      }
+    },
+    "presence": {
+      "tag": "Kde jsme",
+      "heading": "Sídlo ve Varšavě, týmy napříč Evropou.",
+      "text": "Sídlo ve Varšavě, vývoj v Praze, media buyeři v Polsku i na dálku. Hledáme lidi, kteří jedou rychle, pracují s AI a chtějí nést odpovědnost za to, co vydávají.",
+      "ctaCareers": "Zobrazit otevřené pozice"
+    }
+  },
+  "jobs": {
+    "badge": "Nové",
+    "apply": "Přihlásit se →",
+    "units": {
+      "IT": "IT",
+      "Affiliate": "Affiliate"
+    },
+    "items": {
+      "backend-developer": {
+        "title": "Backend developer",
+        "preview": "Náš hlavní produkt je sweepstakes casino platforma — potřebujeme robustní, škálovatelný backend pro vysokou návštěvnost a plynulé UX. Silné API a databázové dovednosti jsou nutné.",
+        "meta": "Mid · Node.js / TypeScript · Kancelář v Praze"
+      },
+      "ui-ux-designer": {
+        "title": "UI/UX designer",
+        "preview": "Nové obrazovky od nuly a průběžné vylepšování stávajícího UX. Práce s AI ve Figmě není volitelná — tak tým designuje každý den.",
+        "meta": "Mid · Figma + AI nástroje · Kancelář v Praze"
+      },
+      "qa-manual": {
+        "title": "QA Manual",
+        "preview": "Regresní testování celé platformy a ruční testování nových funkcí při každém vydání. Bez zkratek — každé nasazení projde rukama QA.",
+        "meta": "Mid · Manuální testování · Na dálku"
+      },
+      "media-buyer-facebook": {
+        "title": "Media buyer, Facebook",
+        "preview": "Spouštění a škálování kampaní od nuly na PVA. Hledáme někoho, kdo sám vedl vertikálu minimálně 6 měsíců — plná odpovědnost od nastavení po škálování.",
+        "meta": "Mid · Placená akvizice · Na dálku"
+      },
+      "media-buyer-tiktok": {
+        "title": "Media buyer, TikTok",
+        "preview": "Spouštění a škálování TikTok kampaní od nuly na PVA. Stejná laťka jako u ostatních oblastí — samostatná zkušenost s vedením vertikály 6+ měsíců.",
+        "meta": "Mid · Placená akvizice · Na dálku"
+      },
+      "media-buyer-twitter": {
+        "title": "Media buyer, Twitter",
+        "preview": "Spouštění a škálování X/Twitter kampaní od nuly na PVA. Máte 6+ měsíců samostatné zkušenosti s vertikálou a umíte postavit kampaň bez hotového základu.",
+        "meta": "Mid · Placená akvizice · Na dálku"
+      },
+      "media-buyer-igaming": {
+        "title": "Media buyer, iGaming",
+        "preview": "Řízení návštěvnosti na vlastních nabídkách a vertikálách v iGaming — bez klientských zadání, s plnou kontrolou funnelu od kliknutí po LTV.",
+        "meta": "Mid · Placená akvizice · Kancelář ve Varšavě"
+      }
+    }
+  },
+  "applyModal": {
+    "eyebrow": "Přihláška na",
+    "description": "Napište nám na Telegram a ozveme se. Zpráva už bude obsahovat pozici, na kterou se hlásíte.",
+    "telegramButton": "Otevřít Telegram",
+    "close": "Zavřít",
+    "telegramMessage": "Ahoj! Rád/ráda bych se přihlásil/a na pozici {{role}}.",
+    "fallbackRole": "tuto pozici"
+  },
+  "footer": {
+    "description": "Holding provozující vlastní sweepstakes platformu, licencované kasino v JAR a vlastní affiliate tým. Varšava, Polsko.",
+    "company": "Společnost",
+    "about": "O nás",
+    "sweepstakes": "Sweepstakes",
+    "saCasino": "SA Casino",
+    "affiliate": "Affiliate",
+    "careers": "Kariéra",
+    "openRoles": "Otevřené pozice",
+    "howWeHire": "Jak najímáme",
+    "lifeAtAdvibe": "Život v Advibe",
+    "connect": "Kontakt",
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "legal": "KRS 0000000000 · NIP 0000000000 · Varšava, Polsko",
+    "copyright": "© 2026 Advibe. Všechna práva vyhrazena."
+  }
+}

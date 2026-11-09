@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "title": "Advibe — Budujemy produkty. Prowadzimy performance marketing.",
+    "titleCareers": "Kariera — Advibe",
+    "titleAbout": "O nas — Advibe",
+    "description": "Advibe buduje i prowadzi własną platformę sweepstakes, licencjonowane kasyno w RPA oraz wewnętrzny zespół affiliate. Siedziba w Warszawie, pełna odpowiedzialność end-to-end.",
+    "descriptionCareers": "Otwarte stanowiska w Advibe w obszarach sweepstakes, kasyna i affiliate. Inżynierowie, projektanci, QA i media buyerzy — małe zespoły i proces pracy wspierany przez AI.",
+    "descriptionAbout": "Poznaj Advibe — warszawski holding, który buduje i prowadzi własną platformę sweepstakes, licencjonowane kasyno w RPA oraz zespół affiliate."
+  },
+  "languages": {
+    "en": "English",
+    "pl": "Polski",
+    "cs": "Čeština",
+    "ru": "Русский"
+  },
+  "nav": {
+    "home": "Strona główna",
+    "products": "Produkty",
+    "about": "O nas",
+    "careers": "Kariera",
+    "hiring": "Rekrutujemy →",
+    "previousRoles": "Poprzednie oferty",
+    "nextRoles": "Następne oferty",
+    "selectLanguage": "Wybierz język",
+    "mainNavigation": "Menu główne",
+    "openMenu": "Otwórz menu",
+    "closeMenu": "Zamknij menu"
+  },
+  "hero": {
+    "eyebrow": "Warszawa · Działamy od 2020",
+    "title": "Budujemy <highlight>produkty</highlight> i<br/>prowadzimy <highlight>ruch</highlight>.",
+    "subtitle": "Advibe end-to-end prowadzi trzy obszary: własną platformę sweepstakes, licencjonowane kasyno w RPA oraz zespół affiliate, który generuje ruch do obu produktów. Bez klientów po drodze — to nasze produkty i nasza odpowiedzialność.",
+    "ctaPrimary": "Zobacz, co budujemy",
+    "ctaSecondary": "Otwarte stanowiska",
+    "arrow": "→"
+  },
+  "products": {
+    "tag": "Co prowadzimy",
+    "heading": "Co sami budujemy i prowadzimy.",
+    "sweepstakes": {
+      "index": "Sweepstakes",
+      "title": "Platforma sweepstakes",
+      "description": "Własna platforma sweepstakes — od A do Z: zgłoszenia, nagrody i ścieżka gracza na infrastrukturze, którą kontrolujemy.",
+      "tags": [
+        "Platforma",
+        "CRM"
+      ],
+      "link": "Poznaj platformę →"
+    },
+    "casino": {
+      "index": "SA Casino",
+      "title": "Licencjonowane kasyno, RPA",
+      "description": "Licencjonowane kasyno na prawdziwe pieniądze w RPA, prowadzone na własnej licencji — bez white-labelu i bez marki partnerskiej.",
+      "license": "Licencjonowany operator · RPA",
+      "tags": [
+        "Licencja iGaming",
+        "Prawdziwe pieniądze"
+      ],
+      "link": "O licencji →"
+    },
+    "affiliate": {
+      "index": "Affiliate",
+      "title": "Affiliate marketing",
+      "description": "Wewnętrzny zespół pozyskiwania ruchu dla naszej platformy i kasyna — bez zewnętrznych klientów, z pełną kontrolą lejka.",
+      "tags": [
+        "iGaming",
+        "Paid acquisition"
+      ],
+      "link": "Zobacz obszar →"
+    }
+  },
+  "whyUs": {
+    "tag": "Jak pracujemy",
+    "heading": "Dla ludzi, którzy działają szybko i biorą odpowiedzialność za efekt.",
+    "items": {
+      "ai": {
+        "title": "AI w codziennej pracy",
+        "description": "Inżynierowie kodują z Copilot, Cursor i Claude Code. Designerzy pracują z AI w Figmie. To nie polityka firmowa — tak po prostu wygląda każdy dzień."
+      },
+      "decisions": {
+        "title": "Krótkie pętle decyzyjne",
+        "description": "Bez zbędnych warstw między pomysłem a wdrożeniem. Małe zespoły odpowiadają end-to-end za swój fragment platformy lub obszaru affiliate."
+      },
+      "ownership": {
+        "title": "Bierzemy odpowiedzialność za to, co wdrażamy",
+        "description": "Każdy produkt i każda oferta należą do nas. Bez akceptacji klienta i bez realizacji cudzego planu produktu."
+      }
+    }
+  },
+  "testimonials": {
+    "heading": "Opinie klientów",
+    "description": "Co mówią firmy, z którymi współpracujemy.",
+    "items": {
+      "hrDirector": {
+        "quote": "Zespół Advibe szybko zorientował się nie tylko w formalnych wymaganiach dotyczących stanowiska, ale także w tym, jaka osoba naprawdę wpasuje się w nasz zespół. Zamiast lawiny CV otrzymaliśmy kilku starannie dobranych kandydatów, z których każdy spełniał nasze oczekiwania.",
+        "role": "Dyrektor ds. HR",
+        "company": "Europejska firma technologiczna"
+      },
+      "founder": {
+        "quote": "Musieliśmy jednocześnie obsadzić kilka stanowisk, nie obniżając przy tym jakości rekrutacji. Advibe opracowało przejrzysty proces, regularnie informowało o postępach w poszukiwaniach i pomogło nam szybciej podejmować decyzje. Zespół Advibe działał jak przedłużenie naszego wewnętrznego działu HR.",
+        "role": "Założyciel",
+        "company": "Szybko rozwijająca się firma z branży cyfrowej"
+      },
+      "headOfPeople": {
+        "quote": "W przypadku niszowego stanowiska szczególnie ważne było zrozumienie rynku i poufność. Rekruter dobrze orientował się w specyfice branży iGaming i przedstawiał wyłącznie tych kandydatów, którzy rzeczywiście odpowiadali poziomowi i zadaniom związanym z danym stanowiskiem.",
+        "role": "Szef działu kadr",
+        "company": "Firma z branży iGaming"
+      },
+      "coo": {
+        "quote": "Komunikacja była przejrzysta na każdym etapie – od doprecyzowania profilu kandydata aż po rozpoczęcie pracy przez nowego pracownika. Po zatrudnieniu zespół Advibe pozostał z nami w kontakcie i nadal wspierał cały proces. Dla nas było to istotne odróżnienie od standardowego podejścia agencji rekrutacyjnych.",
+        "role": "Dyrektor operacyjny",
+        "company": "Międzynarodowa firma usługowa"
+      }
+    }
+  },
+  "careers": {
+    "heading": "Otwarte stanowiska",
+    "description": "Rośniemy we wszystkich trzech obszarach — sweepstakes, kasyno i affiliate — z praktyczną pracą wspieraną przez AI.",
+    "pageHeading": "Dołącz do Advibe",
+    "pageDescription": "Otwarte stanowiska w sweepstakes, kasynie i affiliate. Małe zespoły, proces pracy wspierany przez AI i pełna odpowiedzialność za to, co wdrażasz.",
+    "howWeHire": {
+      "tag": "Jak rekrutujemy",
+      "heading": "Prosty proces i szybka informacja zwrotna.",
+      "steps": {
+        "apply": {
+          "title": "Aplikacja przez Telegram",
+          "description": "Napisz do nas z informacją, na jaką rolę aplikujesz. Bez długich formularzy — krótkie intro i Twoje doświadczenie wystarczą."
+        },
+        "intro": {
+          "title": "Rozmowa wstępna",
+          "description": "30-minutowa rozmowa z kimś z zespołu. Omawiamy rolę, sposób pracy i Twoje oczekiwania."
+        },
+        "task": {
+          "title": "Etap specyficzny dla roli",
+          "description": "Inżynierowie, designerzy i media buyerzy dostają praktyczne zadanie bliskie realnej pracy — bez łamigłówek na tablicy."
+        },
+        "offer": {
+          "title": "Oferta i onboarding",
+          "description": "Jeśli obie strony widzą dopasowanie, działamy szybko. Dołączysz do małego zespołu z jasno określonym zakresem od pierwszego dnia."
+        }
+      }
+    },
+    "lifeAtAdvibe": {
+      "tag": "Życie w Advibe",
+      "heading": "Jak wygląda praca u nas.",
+      "items": {
+        "teams": {
+          "title": "Małe zespoły, jasny zakres",
+          "description": "Nie zginiesz w dużej strukturze. Zespoły są niewielkie, role są konkretne, każdy wie, za co odpowiada."
+        },
+        "ai": {
+          "title": "AI w codziennej pracy",
+          "description": "Copilot, Cursor, Claude Code i Figma z AI to sposób, w jaki pracujemy — nie slajd z onboardingu."
+        },
+        "ownership": {
+          "title": "Prawdziwa odpowiedzialność",
+          "description": "Budujemy własne produkty, nie projekty dla klientów. Widzisz wpływ swojej pracy na działające platformy i kampanie."
+        }
+      }
+    }
+  },
+  "about": {
+    "tag": "O Advibe",
+    "heading": "Budujemy i prowadzimy własne produkty.",
+    "intro": "Advibe to warszawski holding, który sam odpowiada za to, co tworzy i wdraża — platformę sweepstakes, licencjonowane kasyno w RPA oraz zespół affiliate generujący ruch. Bez klientów agencyjnych, bez white-labeli.",
+    "story": {
+      "tag": "Kim jesteśmy",
+      "heading": "Firma produktowa, nie software house.",
+      "paragraph1": "Od 2020 roku budujemy i prowadzimy własne produkty iGaming i sweepstakes end-to-end. Inżynieria, design, pozyskiwanie użytkowników i operacje są pod jednym dachem — w małych zespołach odpowiedzialnych za swój fragment stacku.",
+      "paragraph2": "Nie robimy pitchy dla klientów ani nie realizujemy cudzych planów produktowych. Każdy produkt, oferta i kampania należą do nas. To skraca pętle decyzyjne i utrzymuje jasną odpowiedzialność."
+    },
+    "model": {
+      "tag": "Co prowadzimy",
+      "heading": "Trzy obszary, jeden holding.",
+      "items": {
+        "sweepstakes": {
+          "index": "Sweepstakes",
+          "title": "Platforma sweepstakes",
+          "description": "Własna platforma zgłoszeń, nagród i ścieżki gracza — zbudowana i prowadzona na infrastrukturze, którą kontrolujemy."
+        },
+        "casino": {
+          "index": "SA Casino",
+          "title": "Licencjonowane kasyno, RPA",
+          "description": "Kasyno na prawdziwe pieniądze pod własną licencją — nie marka partnerska, nie deal resellerski."
+        },
+        "affiliate": {
+          "index": "Affiliate",
+          "title": "Affiliate marketing",
+          "description": "Wewnętrzne pozyskiwanie użytkowników dla naszych produktów — pełna kontrola lejka od kliknięcia do LTV."
+        }
+      }
+    },
+    "presence": {
+      "tag": "Gdzie jesteśmy",
+      "heading": "HQ w Warszawie, zespoły w Europie.",
+      "text": "Siedziba w Warszawie, inżynieria w Pradze, media buyerzy w Polsce i zdalnie. Szukamy ludzi, którzy działają szybko, pracują z AI i chcą odpowiadać za to, co wdrażają.",
+      "ctaCareers": "Zobacz otwarte stanowiska"
+    }
+  },
+  "jobs": {
+    "badge": "Nowe",
+    "apply": "Aplikuj →",
+    "units": {
+      "IT": "IT",
+      "Affiliate": "Affiliate"
+    },
+    "items": {
+      "backend-developer": {
+        "title": "Backend developer",
+        "preview": "Nasz główny produkt to platforma sweepstakes casino — potrzebujemy stabilnego, skalowalnego backendu pod duży ruch i płynne UX. Wymagana solidna znajomość API i baz danych.",
+        "meta": "Mid · Node.js / TypeScript · Biuro w Pradze"
+      },
+      "ui-ux-designer": {
+        "title": "UI/UX designer",
+        "preview": "Nowe ekrany od zera i ciągłe ulepszenia istniejącego UX. Praca z AI w Figmie to standard — tak zespół projektuje na co dzień.",
+        "meta": "Mid · Figma + narzędzia AI · Biuro w Pradze"
+      },
+      "qa-manual": {
+        "title": "QA Manual",
+        "preview": "Testy regresyjne całej platformy oraz ręczne testowanie nowych funkcji przy każdym wydaniu. Bez skrótów — każde wdrożenie przechodzi przez ręce QA.",
+        "meta": "Mid · Testy manualne · Zdalnie"
+      },
+      "media-buyer-facebook": {
+        "title": "Media buyer, Facebook",
+        "preview": "Uruchamianie i skalowanie kampanii od zera na PVA. Szukamy kogoś, kto samodzielnie prowadził wertykal minimum 6 miesięcy — pełna odpowiedzialność od konfiguracji po skalowanie.",
+        "meta": "Mid · Płatna akwizycja · Zdalnie"
+      },
+      "media-buyer-tiktok": {
+        "title": "Media buyer, TikTok",
+        "preview": "Uruchamianie i skalowanie kampanii TikTok od zera na PVA. Ten sam poziom co w innych obszarach — samodzielne prowadzenie wertykalu przez 6+ miesięcy.",
+        "meta": "Mid · Płatna akwizycja · Zdalnie"
+      },
+      "media-buyer-twitter": {
+        "title": "Media buyer, Twitter",
+        "preview": "Uruchamianie i skalowanie kampanii X/Twitter od zera na PVA. Masz 6+ miesięcy samodzielnego doświadczenia z wertykalem i umiesz zbudować kampanię bez gotowej bazy.",
+        "meta": "Mid · Płatna akwizycja · Zdalnie"
+      },
+      "media-buyer-igaming": {
+        "title": "Media buyer, iGaming",
+        "preview": "Prowadzenie ruchu na własnych ofertach i wertykalach w iGaming — bez briefów klienta, z pełną kontrolą lejka od kliknięcia do LTV.",
+        "meta": "Mid · Płatna akwizycja · Biuro w Warszawie"
+      }
+    }
+  },
+  "applyModal": {
+    "eyebrow": "Aplikacja na",
+    "description": "Napisz do nas na Telegramie — odpowiemy wkrótce. Wiadomość będzie już zawierała stanowisko, na które aplikujesz.",
+    "telegramButton": "Otwórz Telegram",
+    "close": "Zamknij",
+    "telegramMessage": "Cześć! Chciałbym/chciałabym aplikować na stanowisko {{role}}.",
+    "fallbackRole": "to stanowisko"
+  },
+  "footer": {
+    "description": "Holding prowadzący własną platformę sweepstakes, licencjonowane kasyno w RPA oraz własny zespół affiliate. Warszawa, Polska.",
+    "company": "Firma",
+    "about": "O nas",
+    "sweepstakes": "Sweepstakes",
+    "saCasino": "SA Casino",
+    "affiliate": "Affiliate",
+    "careers": "Kariera",
+    "openRoles": "Otwarte stanowiska",
+    "howWeHire": "Jak rekrutujemy",
+    "lifeAtAdvibe": "Życie w Advibe",
+    "connect": "Kontakt",
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "legal": "KRS 0000000000 · NIP 0000000000 · Warszawa, Polska",
+    "copyright": "© 2026 Advibe. Wszelkie prawa zastrzeżone."
+  }
+}

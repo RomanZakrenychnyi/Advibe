@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "title": "Advibe — Building products. Running performance.",
+    "titleCareers": "Careers — Advibe",
+    "titleAbout": "About — Advibe",
+    "description": "Advibe builds and operates its own sweepstakes platform, a licensed casino in South Africa, and an in-house affiliate desk. Warsaw-based, full ownership end to end.",
+    "descriptionCareers": "Open roles at Advibe across sweepstakes, casino and affiliate. Engineers, designers, QA and media buyers — small teams, AI-assisted workflow.",
+    "descriptionAbout": "Learn about Advibe — a Warsaw-based holding that builds and operates its own sweepstakes platform, licensed casino in South Africa, and affiliate desk."
+  },
+  "languages": {
+    "en": "English",
+    "pl": "Polski",
+    "cs": "Čeština",
+    "ru": "Русский"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "careers": "Careers",
+    "hiring": "We're hiring →",
+    "previousRoles": "Previous roles",
+    "nextRoles": "Next roles",
+    "selectLanguage": "Select language",
+    "mainNavigation": "Main navigation",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "Warsaw · Building since 2020",
+    "title": "We build the <highlight>products</highlight> and<br/>run the <highlight>traffic</highlight>.",
+    "subtitle": "Advibe runs three things end to end: our own sweepstakes platform, a licensed casino in South Africa, and the affiliate desk that drives traffic to both. No clients in between. We own what we build.",
+    "ctaPrimary": "See what we build",
+    "ctaSecondary": "Open roles",
+    "arrow": "→"
+  },
+  "products": {
+    "tag": "What we run",
+    "heading": "What we build and operate ourselves.",
+    "sweepstakes": {
+      "index": "Sweepstakes",
+      "title": "Sweepstakes platform",
+      "description": "Our own sweepstakes platform, built and operated end to end — entries, prizes and player flow running on infrastructure we control.",
+      "tags": [
+        "Platform",
+        "CRM"
+      ],
+      "link": "Explore the platform →"
+    },
+    "casino": {
+      "index": "SA Casino",
+      "title": "Licensed casino, South Africa",
+      "description": "A licensed real-money casino operation in South Africa, run under our own license — not a white-label, not a partner brand.",
+      "license": "Licensed operator · South Africa",
+      "tags": [
+        "iGaming licence",
+        "Real money"
+      ],
+      "link": "About the licence →"
+    },
+    "affiliate": {
+      "index": "Affiliate",
+      "title": "Affiliate marketing desk",
+      "description": "Our in-house traffic desk, running acquisition for our own platform and casino — no external clients, full ownership of the funnel.",
+      "tags": [
+        "iGaming",
+        "Paid acquisition"
+      ],
+      "link": "See the desk →"
+    }
+  },
+  "whyUs": {
+    "tag": "How we operate",
+    "heading": "Built for people who move fast and own the outcome.",
+    "items": {
+      "ai": {
+        "title": "AI in the actual workflow",
+        "description": "Engineers ship with Copilot, Cursor and Claude Code. Designers work AI-assisted in Figma. It's not a policy on paper — it's how the work gets done day to day."
+      },
+      "decisions": {
+        "title": "Short decision loops",
+        "description": "No layers between an idea and shipping it. Small teams own their part of the platform or the desk end to end."
+      },
+      "ownership": {
+        "title": "We own what we ship",
+        "description": "Every product and every offer is ours. No client approvals, no second-guessing someone else's roadmap."
+      }
+    }
+  },
+  "testimonials": {
+    "heading": "Client Testimonials",
+    "description": "What the companies we work with have to say.",
+    "items": {
+      "hrDirector": {
+        "quote": "The Advibe team quickly grasped not only the formal requirements for the position, but also what kind of person would truly be a good fit for our team. Instead of a flood of resumes, we received a few carefully selected candidates, each of whom met our expectations.",
+        "role": "HR Director",
+        "company": "European Technology Company"
+      },
+      "founder": {
+        "quote": "We needed to fill several positions simultaneously without compromising the quality of the selection process. Advibe established a clear process, provided regular updates on the search, and helped us make decisions faster. The Advibe team worked as an extension of our in-house HR department.",
+        "role": "Founder",
+        "company": "Fast-growing digital business"
+      },
+      "headOfPeople": {
+        "quote": "For this niche position, market understanding and confidentiality were particularly important. The recruiter had a strong grasp of the specifics of iGaming and presented only those candidates who truly matched the level and responsibilities of the role.",
+        "role": "Head of People",
+        "company": "iGaming company"
+      },
+      "coo": {
+        "quote": "Communication was transparent at every stage—from refining the job profile to the employee’s onboarding. After the hire, the Advibe team stayed in touch and continued to support the process. For us, this was a key difference from the standard agency approach.",
+        "role": "COO",
+        "company": "International service company"
+      }
+    }
+  },
+  "careers": {
+    "heading": "Open roles",
+    "description": "We're growing across all three lines — sweepstakes, casino and affiliate — hands-on AI-assisted workflow.",
+    "pageHeading": "Join Advibe",
+    "pageDescription": "Open roles across sweepstakes, casino and affiliate. Hands-on teams, AI-assisted workflow, full ownership of what you ship.",
+    "howWeHire": {
+      "tag": "How we hire",
+      "heading": "A clear process with fast feedback.",
+      "steps": {
+        "apply": {
+          "title": "Apply on Telegram",
+          "description": "Send us a message with the role you're interested in. No long forms — just a short intro and your background."
+        },
+        "intro": {
+          "title": "Intro call",
+          "description": "A 30-minute conversation with someone from the team. We talk about the role, how we work, and what you're looking for."
+        },
+        "task": {
+          "title": "Role-specific step",
+          "description": "Engineers, designers and media buyers each get a practical task close to real work — not whiteboard puzzles."
+        },
+        "offer": {
+          "title": "Offer and onboarding",
+          "description": "If it's a fit on both sides, we move quickly. You'll join a small team with a clear scope from day one."
+        }
+      }
+    },
+    "lifeAtAdvibe": {
+      "tag": "Life at Advibe",
+      "heading": "What it's like to work here.",
+      "items": {
+        "teams": {
+          "title": "Small teams, clear scope",
+          "description": "You won't get lost in a big org chart. Teams are compact, roles are defined, and everyone knows what they own."
+        },
+        "ai": {
+          "title": "AI in daily work",
+          "description": "Copilot, Cursor, Claude Code and AI-assisted Figma are part of how we ship — not a slide in an onboarding deck."
+        },
+        "ownership": {
+          "title": "Real ownership",
+          "description": "We build our own products, not client projects. You see the impact of your work on live platforms and campaigns."
+        }
+      }
+    }
+  },
+  "about": {
+    "tag": "About Advibe",
+    "heading": "We build and run our own products.",
+    "intro": "Advibe is a Warsaw-based holding that owns what it ships — a sweepstakes platform, a licensed casino in South Africa, and the affiliate desk that drives traffic to both. No agency clients, no white-labels.",
+    "story": {
+      "tag": "Who we are",
+      "heading": "A product company, not a services shop.",
+      "paragraph1": "Since 2020 we've been building and operating our own iGaming and sweepstakes products end to end. Engineering, design, acquisition and operations sit under one roof — with small teams that own their slice of the stack.",
+      "paragraph2": "We don't pitch decks to clients or ship someone else's roadmap. Every product, every offer and every campaign is ours. That keeps decision loops short and accountability clear."
+    },
+    "model": {
+      "tag": "What we run",
+      "heading": "Three lines, one holding.",
+      "items": {
+        "sweepstakes": {
+          "index": "Sweepstakes",
+          "title": "Sweepstakes platform",
+          "description": "Our own platform for entries, prizes and player flow — built and operated on infrastructure we control."
+        },
+        "casino": {
+          "index": "SA Casino",
+          "title": "Licensed casino, South Africa",
+          "description": "A real-money casino under our own licence — not a partner brand, not a reseller deal."
+        },
+        "affiliate": {
+          "index": "Affiliate",
+          "title": "Affiliate marketing desk",
+          "description": "In-house acquisition for our own products — full ownership of the funnel from click to LTV."
+        }
+      }
+    },
+    "presence": {
+      "tag": "Where we are",
+      "heading": "Warsaw HQ, teams across Europe.",
+      "text": "Headquartered in Warsaw with engineering in Prague and media buyers across Poland and remote. We hire people who move fast, work AI-assisted, and want ownership over what they ship.",
+      "ctaCareers": "See open roles"
+    }
+  },
+  "jobs": {
+    "badge": "New",
+    "apply": "Apply now →",
+    "units": {
+      "IT": "IT",
+      "Affiliate": "Affiliate"
+    },
+    "items": {
+      "backend-developer": {
+        "title": "Backend developer",
+        "preview": "Our main product is a sweepstakes casino platform, which needs a robust, scalable backend for high traffic and a smooth user experience. Strong API and database skills required.",
+        "meta": "Middle · Node.js / TypeScript · Prague office"
+      },
+      "ui-ux-designer": {
+        "title": "UI/UX designer",
+        "preview": "New screens from scratch and ongoing improvements to existing UX. Working AI-assisted in Figma isn't optional — it's how the team designs day to day.",
+        "meta": "Middle · Figma + AI tools · Prague office"
+      },
+      "qa-manual": {
+        "title": "QA Manual",
+        "preview": "Regression testing across the platform, plus hands-on testing of new features as they ship. No automation shortcuts — every release gets checked by hand.",
+        "meta": "Middle · Manual testing · Remote"
+      },
+      "media-buyer-facebook": {
+        "title": "Media buyer, Facebook",
+        "preview": "Launch and scale campaigns from scratch using PVA. We're looking for someone who's run a vertical solo for at least 6 months — full ownership from setup to scale.",
+        "meta": "Middle · Paid acquisition · Remote"
+      },
+      "media-buyer-tiktok": {
+        "title": "Media buyer, TikTok",
+        "preview": "Launch and scale TikTok campaigns from scratch using PVA. Same bar as our other desks — solo experience running a vertical for 6+ months.",
+        "meta": "Middle · Paid acquisition · Remote"
+      },
+      "media-buyer-twitter": {
+        "title": "Media buyer, Twitter",
+        "preview": "Launch and scale X/Twitter campaigns from scratch using PVA. You've run a vertical solo for 6+ months and know how to build a campaign without a head start.",
+        "meta": "Middle · Paid acquisition · Remote"
+      },
+      "media-buyer-igaming": {
+        "title": "Media buyer, iGaming",
+        "preview": "Run traffic on our own offers and verticals in iGaming — no client mandates, full ownership of the funnel from click to LTV.",
+        "meta": "Middle · Paid acquisition · Warsaw office"
+      }
+    }
+  },
+  "applyModal": {
+    "eyebrow": "Apply for",
+    "description": "Send us a message on Telegram and we'll get back to you. Your message will already include the role you're applying for.",
+    "telegramButton": "Open Telegram",
+    "close": "Close",
+    "telegramMessage": "Hi! I'd like to apply for the {{role}} position.",
+    "fallbackRole": "this role"
+  },
+  "footer": {
+    "description": "A holding running its own sweepstakes platform, a licensed casino in South Africa, and its own affiliate desk. Warsaw, Poland.",
+    "company": "Company",
+    "about": "About",
+    "sweepstakes": "Sweepstakes",
+    "saCasino": "SA Casino",
+    "affiliate": "Affiliate",
+    "careers": "Careers",
+    "openRoles": "Open roles",
+    "howWeHire": "How we hire",
+    "lifeAtAdvibe": "Life at Advibe",
+    "connect": "Connect",
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "legal": "KRS 0000000000 · NIP 0000000000 · Warsaw, Poland",
+    "copyright": "© 2026 Advibe. All rights reserved."
+  }
+}
